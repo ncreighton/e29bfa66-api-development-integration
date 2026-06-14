@@ -1,2 +1,59 @@
-# e29bfa66-api-development-integration
-Stop wasting hours answering the same API questions. Give your clients a dedicated portal to manage keys, test endpoints, and track usage—without writing a single line of extra code.  This plugin transforms your WordPress site into a full-featured API client portal. Clients can generate API keys, view documentation, test endpoints, and monitor usag
+=== API Development & Integration Client Portal WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Secure client login, document sharing, project status updates, and messaging. Professional client experience without custom development.
+
+== Description ==
+
+Secure client login, document sharing, project status updates, and messaging. Professional client experience without custom development.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > API Development & Integration Client Portal WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIbJ1aDdf6QaNO1ZicZd26)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIbJ1aDdf6QaNO1ZicZd26)
+
